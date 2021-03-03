@@ -6,6 +6,7 @@ In order to achieve that, I've made a number of changes to the Horiseon webpage.
 
 - Retitling the webpage, to give it a more descriptive and useful title
 - Used combinator selectors to minimise repetition in the CSS file
+- Assigning relevantly named classes to make navigation easier
 
 ## Screenshots
 
