@@ -16,6 +16,8 @@ In order to achieve that, I've made a number of changes to the Horiseon webpage.
 
 ## Screenshots
 
+![Screenshot 1 - Full Page](assets/images/Screenshot_FullPage.png)
+
 ## Link to the deployed application
 
 [View here](https://misha244.github.io/homework_1/)
