@@ -16,7 +16,13 @@ In order to achieve that, I've made a number of changes to the Horiseon webpage.
 
 ## Screenshots
 
-![Screenshot 1 - Full Page](assets/images/Screenshot_FullPage.png)
+#### A demo of the webpage before refactoring
+
+![Screenshot 1 - Full Page Before Refactoring](assets/images/01-html-css-git-homework-demo.png)
+
+#### The webpage after refactoring
+
+![Screenshot 2 - Full Page After Refactoring](assets/images/Screenshot_FullPage.png)
 
 ## Link to the deployed application
 
