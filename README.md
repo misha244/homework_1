@@ -4,14 +4,15 @@
 
 In order to achieve that, I've made a number of changes to the Horiseon webpage.
 
-#### HTML & CSS changes:
+#### HTML & CSS changes include:
 
 - Retitling the webpage, to give it a more descriptive and useful title.
+- Adjusting indentation to better convey the file's structure.
 - Assigning relevantly named classes to make navigation easier.
-- Adding descriptive ALT attributes to all image tags for accessibility.
+- Adding descriptive `alt` attributes to all image tags for accessibility.
 - Using combinator selectors to minimise repetition and clutter in the CSS file.
 - Adjusting the order in the CSS file, so that it matches the flow of the HTML one.
-- Replacing the < div > elements with semantic ones to define their content.
+- Replacing the `div` elements with semantic ones to define their content.
 
 ## Screenshots
 
